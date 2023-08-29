@@ -4,8 +4,8 @@ This is a simple application developed using React and TypeScript. This readme p
 
 ## Installation
 --------------------------------------------------------------------------------------
-- Node.js: The project relies on Node.js to run.
+- Node.js: The project relies on Node.js to run. Install it from [https://nodejs.org/en/download](url)
 - Clone the Repository: git clone [https://github.com/0002aakansha/typescript-react-todo-application.git](url)
 - Navigate to the Project Directory: cd typescript-react-todo-application
-- Install Dependencies: [npm install]
+- Install Dependencies: npm install.
 - Run the Application: npm start
